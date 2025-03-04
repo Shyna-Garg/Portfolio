@@ -209,6 +209,8 @@ box-shadow: 0 0 1rem #fff , inset 0 0 1rem #fff ,
     background: #262525;
     padding-top: 4rem;
     padding: 2rem 3rem 3rem 3rem;
+    display: grid;
+    justify-content: center;
 
 }
 .ui{
@@ -239,6 +241,7 @@ box-shadow: 0 0 1rem #fff , inset 0 0 1rem #fff ,
     box-shadow: 0 0 1rem #fff;
     border-radius: 1rem;
     padding: 1.5rem 1.5rem;
+    width: 80vw;
 }
 .dev .box2{
     padding: 3rem;
